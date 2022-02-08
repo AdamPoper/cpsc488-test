@@ -1,4 +1,4 @@
-package gitpractice;
+package lead;
 
 public class User {
 	
